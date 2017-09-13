@@ -14,6 +14,12 @@ public class Student implements Comparable {
 	 * student id
 	 */
 	private int id;
+	public static void main(strings args[]);
+	System.out.println("student data created");
+	student s1=new student;
+	student s2=new student;
+	display();
+	
 
 	/**
 	 * student name and surname separated by the whitespace for example:
